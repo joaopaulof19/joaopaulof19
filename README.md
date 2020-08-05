@@ -9,5 +9,7 @@ Meu nome é João Paulo de Oliveira Câmara Fernandes, sou bacharel em Ciências
 
 
 - 🌱 Atualmente estou aprendendo mais sobre desenvolvimento web com HTML, CSS e Javascript
-- 📫 Entre em contato comigo: https://www.linkedin.com/in/jo%C3%A3o-paulo-de-oliveira-c%C3%A2mara-fernandes-45b68b139/
-
+- 📫 Entre em contato comigo: 
+https://www.linkedin.com/in/jo%C3%A3o-paulo-de-oliveira-c%C3%A2mara-fernandes-45b68b139/
+ou pelo meu e-mail:
+jpocf19@gmail.com
