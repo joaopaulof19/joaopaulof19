@@ -11,4 +11,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-jpocf19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpocf19@gmail.com.com)](mailto:jpocf19@gmail.com)
 <br>
 
-#### My name is João Paulo de Oliveira Câmara Fernandes, I have a bachelor's degree in Science and Technology from the Federal University of Rio Grande do Norte. I am currently a student of Telecommunications Engineering, also from UFRN.
+#### My name is João Paulo de Oliveira Câmara Fernandes, I have a bachelor's degree in Science and Technology from the Federal University of Rio Grande do Norte. I am currently a student of Business Intelligence and Analytics, also from UFRN.
