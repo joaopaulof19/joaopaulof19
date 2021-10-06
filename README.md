@@ -3,7 +3,7 @@
 
 
 :wave:  &nbsp;My name is João Paulo de Oliveira Câmara Fernandes. <br>
-:mortar_board:  &nbsp; I'm an Telecommunications engineering student. <br>
+:mortar_board:  &nbsp; I'm an Business Intelligence e Analytics student. <br>
 :computer:  &nbsp; I'm a Web Developer Jr. <br>
 :dart: &nbsp; My skills: HTML, CSS, JS, Python, MySQL, PostgreSQL and Git. <br>
 🌱 I am currently learning more about web development. <br>
