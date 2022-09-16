@@ -14,6 +14,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 By: Mathieu Ledru (matyo91) 
 -->
 
+<p>
+&nbsp; &nbsp; &nbsp; &nbsp; Motivado pela minha paixão em programação e matemática, enveredei-me pelo caminho dos dados e busco uma vaga de cientista de dados para consolidar meus conhecimentos e me tornar uma referência no que faço. Possuo facilidade de aprender novos processos e boa didática para repassar conhecimento para os próximos, além de lidar muito bem com trabalho em equipe.
+
+</P>
+
 
 - 🔭 Atualmente sou **residente de TI do TRF5**, onde ajudei a desenvolver painéis BI em **Qlik Sense** e hoje atuo no desenvolvimento de features com **python** em um novo sistema que irá utilizar **machine learning**.
 
