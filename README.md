@@ -38,6 +38,19 @@ By: Mathieu Ledru (matyo91)
  <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
 </p>
 
+
+<h3 align="left">📈 Métricas do Github: </h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulof19&show_icons=true&locale=en&layout=compact" alt="joaopaulof19" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulof19&show_icons=true&locale=en" alt="joaopaulof19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulof19&" alt="joaopaulof19" /></p>
+
+
+
+
+
+
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/joaopaulo-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joaopaulo-fernandes" height="30" width="40" /></a>
@@ -46,14 +59,10 @@ By: Mathieu Ledru (matyo91)
 <a href="https://discord.gg/João Paulo Fernandes#5840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="João Paulo Fernandes#5840" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulof19&show_icons=true&locale=en&layout=compact" alt="joaopaulof19" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulof19&show_icons=true&locale=en" alt="joaopaulof19" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulof19&" alt="joaopaulof19" /></p>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopaulof19&label=Profile%20views&color=0e75b6&style=flat" alt="joaopaulof19" /> </p>
+
 <!--
 
 -->
