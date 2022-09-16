@@ -1,11 +1,23 @@
 <h1 align="center">Oi 👋, Eu sou João Paulo Fernandes</h1>
 <h3 align="center">Um cientista de dados impulsionado por desafios e evolução contínua.</h3>
 
+<p align="center">
+  <img src="https://github.com/joaopaulof19/joaopaulof19/raw/main/assets/header-github.gif" alt="Oi, eu sou o João Paulo Fernandes 👋 ">
+</p>
+
+<!--
+How to make this gif ?
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+By: Mathieu Ledru (matyo91) 
+-->
 
 
 - 🔭 Atualmente sou **residente de TI do TRF5**, onde ajudei a desenvolver painéis BI em **Qlik Sense** e hoje atuo no desenvolvimento de features com **python** em um novo sistema que irá utilizar **machine learning**.
 
-- Eu procuro colaborar em **projetos de Data Science e Machine Learning.**
+- 📊 Eu procuro colaborar em **projetos de Data Science e Machine Learning.**
 
 - 📫 Fale comigo em &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-jpocf19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpocf19@gmail.com.com)](mailto:jpocf19@gmail.com)
