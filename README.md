@@ -53,7 +53,7 @@ By: Mathieu Ledru (matyo91)
 
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/joaopaulo-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joaopaulo-fernandes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joaopaulo-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joaopaulo-fernandes" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/joaopaulo.fernandes.19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/joaopaulo.fernandes.19/" height="30" width="40" /></a>
 <a href="https://instagram.com/joaopaulof19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaopaulof19" height="30" width="40" /></a>
 <a href="https://discord.gg/João Paulo Fernandes#5840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="João Paulo Fernandes#5840" height="30" width="40" /></a>
