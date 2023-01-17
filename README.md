@@ -15,19 +15,20 @@ By: Mathieu Ledru (matyo91)
 -->
 
 <p>
-&nbsp; &nbsp; &nbsp; &nbsp; Motivado pela minha paixão em programação e matemática, enveredei-me pelo caminho dos dados e busco uma vaga de cientista de dados para consolidar meus conhecimentos e me tornar uma referência no que faço. Possuo facilidade de aprender novos processos e boa didática para repassar conhecimento para os próximos, além de lidar muito bem com trabalho em equipe.
+
+Motivado pela minha paixão em programação e matemática, enveredei-me pelo caminho dos dados.
+
+Sou analista de negócios com habilidades de análise exploratória, limpezas dos dados, desenvolvimento de Painéis BI, storytelling, desenvolvimento de algorítimos de Machine Learning e técnicas de Processamento de Linguagem Natural(NLP).
+
+Minha distribuição favorita é o Linux Mint 💚
 
 </P>
 
 
-- 🔭 Atualmente sou **residente de TI do TRF5**, onde ajudei a desenvolver painéis BI em **Qlik Sense** e hoje atuo no desenvolvimento de features com **python** em um novo sistema que irá utilizar **machine learning**.
+
+- 🔭 Atualmente sou **residente de TI do TRF5**, onde ajudei a desenvolver modelos de **Machine Learning** <img src="https://cdn-icons-png.flaticon.com/512/3273/3273713.png" width="3%"> para classificação de textos utilizando técnicas de **Processamento de Linguagem Natural (PLN ou NLP)** e participei no desenvolvimento de Painéis BI <img src="https://cdn-icons-png.flaticon.com/512/8899/8899687.png" width="3%"> com a ferramenta **Qlik Sense**.
 
 - 📊 Eu procuro colaborar em **projetos de Data Science e Machine Learning.**
-
-- 📫 Fale comigo em &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-jpocf19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpocf19@gmail.com.com)](mailto:jpocf19@gmail.com)
-
-- 📄 Saiba mais sobre mim em [![Linkedin Badge](https://img.shields.io/badge/-João_Paulo_Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/joaopaulo-fernandes) &nbsp;
 
 - ⚡ Curiosidades sobre mim: **sou torcedor fanático e sofredor do Santos Futebol Clube 🐋⚽**
 
@@ -54,7 +55,8 @@ By: Mathieu Ledru (matyo91)
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaopaulo-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joaopaulo-fernandes" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/joaopaulo.fernandes.19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/joaopaulo.fernandes.19/" height="30" width="40" /></a>
+<a href="mailto:jpocf19@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="jpocf19@gmail.com" height="30" width="40" /></a>
+<a href="https://www.facebook.com/joaopaulo.fernandes.19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/joaopaulo.fernandes.19/" height="30" width="40" /></a>
 <a href="https://instagram.com/joaopaulof19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaopaulof19" height="30" width="40" /></a>
 <a href="https://discord.gg/João Paulo Fernandes#5840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="João Paulo Fernandes#5840" height="30" width="40" /></a>
 </p>
