@@ -18,7 +18,7 @@ By: Mathieu Ledru (matyo91)
 
 Motivado pela minha paixão em programação e matemática, enveredei-me pelo caminho dos dados.
 
-Sou analista de negócios com habilidades de análise exploratória, limpezas dos dados, desenvolvimento de Painéis BI, storytelling, desenvolvimento de algorítimos de Machine Learning e técnicas de Processamento de Linguagem Natural(NLP).
+Sou cientista de dados com habilidades de análise exploratória, limpezas dos dados, desenvolvimento de Painéis BI, storytelling, desenvolvimento de algorítimos de Machine Learning e técnicas de Processamento de Linguagem Natural(NLP).
 
 Minha distribuição favorita é o Linux Mint 💚
 
