@@ -42,11 +42,11 @@ Minha distribuição favorita é o Linux Mint 💚
 
 <h3 align="left">📈 Métricas do Github: </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopaulof19&show_icons=true&locale=en&layout=compact" alt="joaopaulof19" /></p>
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulof19&show_icons=true&locale=en" alt="joaopaulof19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopaulof19&" alt="joaopaulof19" /></p>
-
+-->
 
 
 
