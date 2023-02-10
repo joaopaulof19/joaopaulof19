@@ -16,9 +16,11 @@ By: Mathieu Ledru (matyo91)
 
 <p>
 
-Motivado pela minha paixão em programação e matemática, enveredei-me pelo caminho dos dados.
+Sou um cientista de dados apaixonado por programação, matemática e transformar dados em insights valiosos e ajudar as empresas a tomar decisões informadas. Com formação sólida em estatística, aprendizado de máquina e programação, tenho habilidades para coletar, processar e analisar grandes conjuntos de dados. Minha paixão por dados começou quando eu percebi o poder da análise de dados em solucionar problemas complexos e tomar decisões estratégicas.
 
-Sou cientista de dados com habilidades de análise exploratória, limpezas dos dados, desenvolvimento de Painéis BI, storytelling, desenvolvimento de algorítimos de Machine Learning e técnicas de Processamento de Linguagem Natural(NLP).
+Já tive oportunidade de colaborar em projetos interessantes, aplicando técnicas de mineração de dados, mineração de textos, Processamento de Linguagem Natural(NLP ou PLN) e visualização para solucionar problemas complexos. Por exemplo, trabalhei em uma equipe que utilizou aprendizado de máquina para prever o assunto processual conforme a leitura do texto submetido. Além disso, também colaborei em projetos de desenvolvimento de dashboards, que ajudaram os stakeholders a compreender melhor sua demanda e ter melhor tomada de decisão baseada nos dados. 
+
+Estou sempre buscando novas oportunidades para continuar desenvolvendo minhas habilidades e aplicando soluções de inteligência artificial para ajudar as empresas a alcançar seus objetivos.
 
 Minha distribuição favorita é o Linux Mint 💚
 
