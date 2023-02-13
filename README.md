@@ -57,7 +57,7 @@ Minha distribuição favorita é o Linux Mint 💚
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaopaulo-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joaopaulo-fernandes" height="30" width="40" /></a>
-<a href="mailto:jpocf19@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="jpocf19@gmail.com" height="30" width="40" /></a>
+<a href="mailto:jpocf19@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="jpocf19@gmail.com" height="33" width="33" /></a>
 <a href="https://www.facebook.com/joaopaulo.fernandes.19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/joaopaulo.fernandes.19/" height="30" width="40" /></a>
 <a href="https://instagram.com/joaopaulof19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaopaulof19" height="30" width="40" /></a>
 <a href="https://discord.gg/João Paulo Fernandes#5840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="João Paulo Fernandes#5840" height="30" width="40" /></a>
