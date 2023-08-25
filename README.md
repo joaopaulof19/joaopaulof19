@@ -22,7 +22,7 @@ Já tive oportunidade de colaborar em projetos interessantes, aplicando técnica
 
 Estou sempre buscando novas oportunidades para continuar desenvolvendo minhas habilidades e aplicando soluções de inteligência artificial para ajudar as empresas a alcançar seus objetivos.
 
-Minha distribuição favorita é o Linux Mint 💚
+Minha distribuição favorita é o ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) 💚
 
 </P>
 
